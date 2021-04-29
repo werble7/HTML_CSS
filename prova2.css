@@ -1,0 +1,47 @@
+body {
+	background-color: #89DB63;
+	text-align: center;
+}
+
+h1 {
+	color: #EB3F1E;
+}
+
+h2 {
+	color: #EB3F1E;
+}
+
+#Layout {
+	left: 1500px;
+	margin-left: -1500px;
+}
+
+#Wordpress {
+	top: 243px;
+	margin-top: -243px;
+	left: 750px;
+	margin-left: -750px;
+}
+
+#Elementor {
+	top: 243px;
+	margin-top: -243px;
+}
+
+#freelancers {
+	top: 243px;
+	margin-top: -243px;
+	right: 750px;
+	margin-right: -750px;
+}
+
+#designer {
+	top: 243px;
+	margin-top: -243px;
+	right: 1500px;
+	margin-right: -1500px;
+}
+
+#creditos {
+	color: #7A5DE8;
+}

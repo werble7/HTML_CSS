@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color: #D6FFE8;
+	border-style: solid;
+	border-color: #FF594C;
+}
+h1 {
+	color: #FF594C;
+}
+h2 {
+	color: #FF594C;
+}
+p {
+	color: #355EFF;
+}
+a {
+	color: white;
+	background-color: #FF594C;
+}
+figcaption{
+	color: #355EFF;
+}

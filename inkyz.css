@@ -1,0 +1,96 @@
+body {
+	background-color: #A520FA;
+	text-align: center;
+}
+#Hipnose {
+	height: 400px;
+	bottom: 400px;
+	margin-bottom: -400px;
+}
+#Shiva {
+	bottom: 500px;
+	margin-bottom: -500px;
+}
+h1 {
+	color: #5AE9FA;
+}
+#YouTube {
+	color: #52D3FA;
+}
+#Instagram {
+	color: #44B8FA;
+}
+#Spotify {
+	color: #4BA5FA;
+}
+#Godfather {
+	color: #4B99FA;
+	left: -1500px;
+	margin-left: -1500px;
+}
+#Voices {
+	color: #4F88FA;
+	top: -243px;
+	margin-top: -243px;
+	left: 750px;
+	margin-left: -750px;
+}
+#Turn {
+	color: #546CFA;
+	left: 1500px;
+	margin-left: -1500px;
+}
+#Bottle {
+	color: #5C56FA;
+	top: 243px;
+	margin-top: -243px;
+	left: 750px;
+	margin-left: -750px;
+}
+#Rumba {
+	color: #8E5EFA;
+	left: 1500px;
+	margin-left: -1500px;
+}
+#Crunk {
+	color: #AF58FA;
+	top: 243px;
+	margin-top: -243px;
+	left: 750px;
+	margin-left: -750px;
+}
+#Maestro {
+	color: #E849FA;
+	left: 1500px;
+	margin-left: -1500px;
+}
+#Mandala {
+	color: #FA46E1;
+	top: 243px;
+	margin-top: -243px;
+	left: 750px;
+	margin-left: -750px;
+}
+#Jylo {
+	color: #FA4BA7;
+	left: 1500px;
+	margin-left: -1500px;
+}
+#Yunni {
+	color: #FA506D;
+	top: 243px;
+	margin-top: -243px;
+	left: 750px;
+	margin-left: -750px;
+}
+#Cobra {
+	color: white;
+	left: 1500px;
+	margin-left: -1500px;
+}
+#Hindu {
+	bottom: 1750px;
+	margin-bottom: -1750px;
+	right: 1500px;
+	margin-left: 1500px;
+}

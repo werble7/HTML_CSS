@@ -1,0 +1,75 @@
+body {
+	text-align: center;
+	background-color: #8518D9;
+	border-style: solid;
+	border-color: #00EB58;
+	border-radius: 30px;
+}
+h1 {
+	color: #00EB58;
+}
+p {
+	font-size: 20px;
+	color: #0E84F0;
+}
+a {
+	color: #0E84F0;
+}
+h2 {
+	color: #00EB58;
+}
+h3 {
+	color: #00EB58;
+}
+#BOMBA {
+    left: -1500px;
+    margin-left: -1500px;
+}
+#Apollo {
+	top: -244px;
+	margin-top: -244px;
+	left: -750px;
+	margin-left: -750px;
+}
+#Cold {
+	top: -243px;
+	margin-top: -243px;
+}
+#Pirates {
+	top: -243px;
+	margin-top: -243px;
+	right: -750px;
+	margin-right: -750px; 
+}
+#Star {
+	top: -243px;
+	margin-top: -243px;
+	right: -1500px;
+	margin-right: -1500px;
+}
+#King {
+	left: -1500px;
+	margin-left: -1500px;
+}
+#Doodlebob {
+	top: -243px;
+	margin-top: -243px;
+	left: -750px;
+	margin-left: -750px;
+}
+#Bitter {
+	top: -243px;
+	margin-top: -243px;
+}
+#Carol {
+	top: -243px;
+	margin-top: -243px;
+	right: -750px;
+	margin-right: -750px;
+}
+#Undertale {
+	top: -243px;
+	margin-top: -243px;
+	right: -1500px;
+	margin-right: -1500px;
+}

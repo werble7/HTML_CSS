@@ -1,0 +1,41 @@
+body {
+	background-color: #89DB63;
+}
+
+h1 {
+	color: #F2F161;
+}
+
+a {
+	color: #6E6DEB;
+}
+
+h2 {
+	color: #F2D361;
+} 
+
+p {
+	color: #EB561E;
+}
+
+table {
+	border: solid;
+	color: #1B41E3;
+}
+
+td {
+	border: dotted;
+	color: #1B41E3;
+}
+
+figcaption {
+	color: #F2F161;
+}
+
+#img {
+	position: absolute;
+	right: 450px;
+	top: 180px;
+	margin-right: -450px;
+	margin-top: -180px;
+}
